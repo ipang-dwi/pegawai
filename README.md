@@ -9,4 +9,7 @@ Cara memakai :
 - edit file koneksi.php sesuaikan dengan setting database yang dipakai
 - coba di browser
 
-Feel free to reach me on : http://www.firstplato.com
+Feel free to reach me on : 
+http://www.firstplato.com
+http://www.facebook.com/ipang.dwi
+Bingung, mau tanya-tanya bisa WA di o856 48587 856
